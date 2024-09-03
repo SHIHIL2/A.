@@ -1,0 +1,3 @@
+FIR_Number,Name,Date_of_Birth,Age,Gender,Offense_Type,Previous_Convictions,Community_Ties,Flight_Risk,Bail_Amount_Suggested,Employment_Status,Family_Dependants,Criminal_History_Severity,Bail_Granted
+101,John Doe,1990-01-01,30,M,Theft,No,Yes,Low,5000,Employed,2,Minor,1
+102,Jane Doe,1985-05-12,35,F,Fraud,Yes,No,High,10000,Unemployed,0,Severe,0
